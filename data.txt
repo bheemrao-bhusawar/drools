@@ -1,5 +1,5 @@
 {
-  "name": "Cordis.us",
+  "name": "Cordis.us ,Bangalore",
   "role": "Manager",
   "city": "Los Angeles"
 }
