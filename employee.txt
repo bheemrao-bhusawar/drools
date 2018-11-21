@@ -19,7 +19,7 @@
   "properties": {
     "age": "29 years",
     "salary": "1000 USD",
-    "designation":"java developer"
+    "designation":"core developer"
 
   }
 }
