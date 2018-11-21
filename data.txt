@@ -3,4 +3,5 @@
   "role": "Manager",
   "city": "Los Angeles",
   "age" : "27"
+  "zip":"560076"
 }
