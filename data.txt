@@ -1,5 +1,6 @@
 {
   "name": "Cordis.us ,Bangalore",
   "role": "Manager",
-  "city": "Los Angeles"
+  "city": "Los Angeles",
+  "zip":"560076"
 }
